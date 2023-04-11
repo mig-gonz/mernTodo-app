@@ -8,7 +8,7 @@ Users can create, read, update, and delete Todo items
 Todo items are stored in a MongoDB database and served by an Express server
 Front-end is built with React and communicates with the server via RESTful API
 Installation
-Clone this repository to your local machine using git clone https://github.com/your-username/todo-mern-stack-app.git
+Clone this repository to your local machine using git clone https://github.com/mig-gonz/mernTodo-app.git
 Navigate to the project directory and run npm install to install all the necessary dependencies
 Start the server by running npm start in the root directory of the project
 Open another terminal window and navigate to the client directory
