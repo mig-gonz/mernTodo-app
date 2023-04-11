@@ -1,9 +1,9 @@
 # mernTodo-app
 
-##Todo MERN Stack App
+## Todo MERN Stack App
 This is a simple Todo app built using the MERN (MongoDB, Express, React, Node.js) stack.
 
-##Features
+## Features
 Users can create, read, update, and delete Todo items
 Todo items are stored in a MongoDB database and served by an Express server
 Front-end is built with React and communicates with the server via RESTful API
@@ -19,7 +19,7 @@ Once the app is up and running, you can access it by visiting http://localhost:3
 
 You can create a new Todo item by clicking on the "Add Todo" button and filling out the form. You can edit or delete existing Todo items by clicking on the corresponding buttons next to each item.
 
-##Contributing
+## Contributing
 If you would like to contribute to this project, feel free to submit a pull request with your changes.
 
 ##License
